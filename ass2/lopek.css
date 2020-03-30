@@ -1,0 +1,35 @@
+body{
+    text-align:center;
+}
+#card{
+    width:200px;
+}
+table{
+    border: 1px double #444444;
+    margin:auto;
+    text-align:center;
+}
+th,tr,td{
+    border: 1px double #444444;
+}
+#result{
+    background-color: skyblue;
+}
+#odd{
+    color:#fff;
+    background-color: blue;
+    font-size: 2em;
+    border-radius: 0.5em;
+    padding: 5px 20px;
+}
+#under{
+    color:yellow;
+    background-color: black;
+    font-size: 2em;
+    border-radius: 1em;
+    padding:3px 15px;
+}
+#batting{
+    background-color: lightgreen;
+
+}
